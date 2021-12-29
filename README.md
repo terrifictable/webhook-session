@@ -17,9 +17,7 @@
       }
       ```<br>
       Now run the dc-webhook-session.py file it will automaticaly select the first webhook and start the session
-  </details><br>
-      
-      
+  </details>
   <h3><details>
     <summary>If you have 2 or more webhooks</summary>
     <h5>Put each webhook inside one line (just replace the first and second filled out line), BUT the webhook has to be in quotation marks ("), for each webhook add a "," at the end of the last line and do the same thing as in the firstline !!! Watch out the last line with your webhook has to have no "," at the end or it will not work<br>
