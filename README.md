@@ -1,3 +1,11 @@
+<p class="infos" align="center">
+  <img src="https://img.shields.io/github/contributors/TerrificTable/Roblox-Account-Gen.svg?style=for-the-badge"/>
+  <img src="https://img.shields.io/github/forks/TerrificTable/Roblox-Account-Gen.svg?style=for-the-badge"/>
+  <img src="https://img.shields.io/github/stars/TerrificTable/Roblox-Account-Gen.svg?style=for-the-badge"/>
+  <img src="https://img.shields.io/github/issues/TerrificTable/Roblox-Account-Gen.svg?style=for-the-badge"/>
+  <!-- <img src="https://img.shields.io/github/license/TerrificTable/Roblox-Account-Gen.svg?style=for-the-badge"/> -->
+</p>
+
 <div align="center">
   <h1>Webhook-Session</h>
   <h3>The "Discord-Webhook-Session" function out of my webhook tools just a bit more useless code and a bit simpler to use
