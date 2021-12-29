@@ -21,8 +21,8 @@
       
       
   <details>
-    <summary><h3>If you have 2 or more webhooks</summary>
-    <h3>put each webhook inside one line (just replace the first and second filled out line), BUT the webhook has to be in quotation marks ("), for each webhook add a "," at the end of the last line and do the same thing as in the firstline !!! Watch out the last line with your webhook has to have no "," at the end or it will not work<br>
+    <summary>If you have 2 or more webhooks</summary>
+    <h5>put each webhook inside one line (just replace the first and second filled out line), BUT the webhook has to be in quotation marks ("), for each webhook add a "," at the end of the last line and do the same thing as in the firstline !!! Watch out the last line with your webhook has to have no "," at the end or it will not work<br>
       Your b-config.json file should look something like that: ```
       {
           "webhooks": [
