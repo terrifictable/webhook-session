@@ -20,8 +20,8 @@
   </details>
   <h3><details>
     <summary>If you have 2 or more webhooks</summary>
-    <h5>Put each webhook inside one line (just replace the first and second filled out line), BUT the webhook has to be in quotation marks ("), for each webhook add a "," at the end of the last line and do the same thing as in the firstline !!! Watch out the last line with your webhook has to have no "," at the end or it will not work<br>
-      Your b-config.json file should look something like that: ```
+    <h5>Put each webhook inside one line (just replace the first and second filled out line), <br>BUT the webhook has to be in quotation marks ("). <br>For each webhook add a "," at the end of the last line and do the same thing as in the firstline<br><h2>!!! Watch out the last line with your webhook has to have no "," at the end or it will not work<br>
+      <h5>Your b-config.json file should look something like that: ```
       {
           "webhooks": [
               "https://discord.com/api/webhooks/913484234486870087/51RgnJT0HshyJc5WopMQALbiHdZ87GyOrtGXxhpKyfyJvune1sMywXXM6oOjFnd0LO_C",
