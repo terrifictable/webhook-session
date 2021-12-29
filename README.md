@@ -7,7 +7,7 @@
   <h1>Instructions</h>
   <h3>to make it work at all, install requests (python -m pip install requests)<br><br>
   <h3><details align="center">
-    <summary>If you have only one webhook</summary>
+    <summary>If you have one webhook</summary>
     <h5>Replace the line with "YOUR FIRST WEBHOOK HERE" inside the b-config.json file with your webhook<br>
       Your b-config.json file should look something like that: ```
       {
